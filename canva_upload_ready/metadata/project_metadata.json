@@ -1,0 +1,28 @@
+{
+  "project_name": "Flag Quiz Video Generator",
+  "created_date": "2025-09-27T12:57:57.615410",
+  "total_quizzes": 255,
+  "difficulty_distribution": {
+    "beginner": 85,
+    "intermediate": 85,
+    "high": 85
+  },
+  "file_formats": [
+    "SVG",
+    "CSV"
+  ],
+  "target_platform": "Canva Bulk Create",
+  "video_duration": "15 seconds",
+  "language": "English",
+  "csv_structure": {
+    "columns": 12,
+    "encoding": "UTF-8",
+    "format": "CSV"
+  },
+  "image_details": {
+    "total_images": 255,
+    "format": "SVG",
+    "organized_by": "difficulty",
+    "naming_convention": "country_name_lowercase_with_underscores"
+  }
+}
