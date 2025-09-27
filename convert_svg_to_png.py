@@ -26,17 +26,29 @@ def check_dependencies():
 def convert_svg_to_png(svg_path, png_path, size=512):
     """SVG를 PNG로 변환"""
     try:
-        cmd = [
-            'convert',
-            '-background', 'transparent',
-            '-size', f'{size}x{size}',
-            str(svg_path),
-            str(png_path)
-        ]
-
-        subprocess.run(cmd, check=True, capture_output=True)
-        return True
-    except subprocess.CalledProcessError as e:
+        # ImageMagick 먼저 시도
+        try:
+            cmd = [
+                'convert',
+                '-background', 'transparent',
+                '-size', f'{size}x{size}',
+                str(svg_path),
+                str(png_path)
+            ]
+            subprocess.run(cmd, check=True, capture_output=True)
+            return True
+        except subprocess.CalledProcessError:
+            # ImageMagick 실패시 cairosvg 사용
+            import cairosvg
+            with open(svg_path, 'rb') as svg_file:
+                cairosvg.svg2png(
+                    file_obj=svg_file,
+                    write_to=str(png_path),
+                    output_width=size,
+                    output_height=size
+                )
+            return True
+    except Exception as e:
         print(f"❌ 변환 실패: {svg_path} -> {e}")
         return False
 
@@ -49,24 +61,22 @@ def convert_flags_to_png():
     if not check_dependencies():
         return False
 
-    base_path = Path("country-flags/svg_renamed")
+    base_path = Path("canva_upload_ready/flag_images/svg")
 
     if not base_path.exists():
         print(f"❌ 폴더를 찾을 수 없습니다: {base_path}")
         return False
 
     # PNG 출력 폴더 생성
-    png_base_path = Path("country-flags/png_renamed")
+    png_base_path = Path("canva_upload_ready/flag_images/png")
     if png_base_path.exists():
         import shutil
         shutil.rmtree(png_base_path)
 
-    png_base_path.mkdir()
+    png_base_path.mkdir(parents=True, exist_ok=True)
 
-    # 난이도별 폴더 생성
-    difficulties = ['beginner', 'intermediate', 'high']
-    for difficulty in difficulties:
-        (png_base_path / difficulty).mkdir()
+    # 난이도별 폴더명
+    difficulties = ['beginner', 'interm', 'high']
 
     success_count = 0
     total_count = 0
@@ -77,18 +87,18 @@ def convert_flags_to_png():
     # 각 난이도별로 변환
     for difficulty in difficulties:
         svg_dir = base_path / difficulty
-        png_dir = png_base_path / difficulty
 
         if not svg_dir.exists():
             print(f"⚠️  폴더 없음: {svg_dir}")
             continue
 
-        print(f"\n📁 {difficulty.upper()} 난이도 변환 중...")
+        print(f"\n📁 {difficulty.upper()} 폴더 변환 중...")
 
         svg_files = list(svg_dir.glob("*.svg"))
         for svg_file in svg_files:
             total_count += 1
-            png_file = png_dir / (svg_file.stem + ".png")
+            # 파일명 그대로, 확장자만 png로 변경
+            png_file = png_base_path / (svg_file.name.replace('.svg', '.png'))
 
             print(f"  🔄 {svg_file.name} -> {png_file.name}", end=" ")
 
@@ -105,12 +115,10 @@ def convert_flags_to_png():
     print(f"❌ 실패: {total_count - success_count}개")
     print(f"📁 PNG 파일 위치: {png_base_path}")
 
-    # 각 폴더별 파일 수 확인
-    for difficulty in difficulties:
-        png_dir = png_base_path / difficulty
-        if png_dir.exists():
-            file_count = len(list(png_dir.glob("*.png")))
-            print(f"  - {difficulty}: {file_count}개")
+    # 파일 수 확인
+    if png_base_path.exists():
+        file_count = len(list(png_base_path.glob("*.png")))
+        print(f"  - PNG 파일: {file_count}개")
 
     return success_count > 0
 
