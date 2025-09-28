@@ -1,0 +1,51 @@
+set_id,quiz_id,country_name,image,question_text,option_a,option_b,option_c,option_d,correct_answer
+Set_34,101,"Korea, Republic of",Set_34_101_(korea).png,Which country does this flag belong to?,"Korea, Republic of",Cocos Islands,Singapore,American Samoa,"Korea, Republic of"
+Set_34,102,Guam,Set_34_102_(guam).png,Which country does this flag belong to?,Indonesia,"Bolivia, Plurinational State of",Sudan,Guam,Guam
+Set_35,103,Indonesia,Set_35_103_(indonesia).png,Which country does this flag belong to?,Angola,Indonesia,Saudi Arabia,Puerto Rico,Indonesia
+Set_35,104,Kosovo,Set_35_104_(kosovo).png,Which country does this flag belong to?,Wallis and Futuna Islands,Kosovo,Benin,Comoros,Kosovo
+Set_35,105,Guernsey,Set_35_105_(guernsey).png,Which country does this flag belong to?,Guernsey,Bouvet Island,Botswana,Sint Maarten,Guernsey
+Set_36,106,"Iran, Islamic Republic of",Set_36_106_(iran_islamic).png,Which country does this flag belong to?,Ethiopia,Gambia,"Iran, Islamic Republic of",Sint Maarten,"Iran, Islamic Republic of"
+Set_36,107,Kuwait,Set_36_107_(kuwait).png,Which country does this flag belong to?,Macao,Vanuatu,Kuwait,Côte d'Ivoire,Kuwait
+Set_36,108,Guinea,Set_36_108_(guinea).png,Which country does this flag belong to?,Guinea,Egypt,US Minor Outlying Islands,Europe,Guinea
+Set_37,109,Ireland,Set_37_109_(ireland).png,Which country does this flag belong to?,Turkmenistan,Samoa,Cameroon,Ireland,Ireland
+Set_37,110,Kyrgyzstan,Set_37_110_(kyrgyzstan).png,Which country does this flag belong to?,South Georgia and the South Sandwich Islands,Kenya,Kyrgyzstan,Malta,Kyrgyzstan
+Set_37,111,Heard Island and McDonald Islands,Set_37_111_(heard_island_and_mcdonald_islands).png,Which country does this flag belong to?,Antigua and Barbuda,Tokelau,Mayotte,Heard Island and McDonald Islands,Heard Island and McDonald Islands
+Set_38,112,Israel,Set_38_112_(israel).png,Which country does this flag belong to?,Cocos Islands,Portugal,Korea Democratic Peoples,Israel,Israel
+Set_38,113,Laos,Set_38_113_(laos).png,Which country does this flag belong to?,Belarus,Laos,Burundi,"Tanzania, United Republic of",Laos
+Set_38,114,Holy See,Set_38_114_(holy_see).png,Which country does this flag belong to?,Holy See,Belarus,Uruguay,Croatia,Holy See
+Set_39,115,Italy,Set_39_115_(italy).png,Which country does this flag belong to?,Sweden,Macao,Rwanda,Italy,Italy
+Set_39,116,Liechtenstein,Set_39_116_(liechtenstein).png,Which country does this flag belong to?,Liechtenstein,Lesotho,Haiti,Burundi,Liechtenstein
+Set_39,117,Hong Kong,Set_39_117_(hong_kong).png,Which country does this flag belong to?,Aruba,Hong Kong,Myanmar,Lithuania,Hong Kong
+Set_40,118,Jamaica,Set_40_118_(jamaica).png,Which country does this flag belong to?,Caribbean Netherlands,Angola,Zimbabwe,Jamaica,Jamaica
+Set_40,119,Macao,Set_40_119_(macao).png,Which country does this flag belong to?,Nauru,Australia,Macao,Kiribati,Macao
+Set_40,120,Isle of Man,Set_40_120_(isle_of_man).png,Which country does this flag belong to?,"Korea, Republic of",Isle of Man,Germany,Nauru,Isle of Man
+Set_41,121,Japan,Set_41_121_(japan).png,Which country does this flag belong to?,Faroe Islands,Haiti,Solomon Islands,Japan,Japan
+Set_41,122,Madagascar,Set_41_122_(madagascar).png,Which country does this flag belong to?,Brunei Darussalam,Isle of Man,Madagascar,Haiti,Madagascar
+Set_41,123,Jersey,Set_41_123_(jersey).png,Which country does this flag belong to?,Ghana,Tonga,Mali,Jersey,Jersey
+Set_42,124,Kenya,Set_42_124_(kenya).png,Which country does this flag belong to?,Kenya,Northern Mariana Islands,Croatia,Gibraltar,Kenya
+Set_42,125,Maldives,Set_42_125_(maldives).png,Which country does this flag belong to?,Maldives,Uruguay,Central African Republic,Canada,Maldives
+Set_42,126,Kingdom of Eswatini,Set_42_126_(kingdom_of_eswatini).png,Which country does this flag belong to?,Greenland,Kingdom of Eswatini,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,Kingdom of Eswatini
+Set_43,127,Latvia,Set_43_127_(latvia).png,Which country does this flag belong to?,Russian Federation,Czech Republic,Latvia,Cambodia,Latvia
+Set_43,128,Mali,Set_43_128_(mali).png,Which country does this flag belong to?,Saint Vincent and the Grenadines,Mali,Cyprus,Guyana,Mali
+Set_43,129,Kiribati,Set_43_129_(kiribati).png,Which country does this flag belong to?,United Arab Emirates,Ireland,Kiribati,Luxembourg,Kiribati
+Set_44,130,Lebanon,Set_44_130_(lebanon).png,Which country does this flag belong to?,Benin,Lebanon,Mayotte,Tuvalu,Lebanon
+Set_44,131,Martinique,Set_44_131_(martinique).png,Which country does this flag belong to?,"Saint Helena, Ascension and Tristan da Cunha",Martinique,American Samoa,Germany,Martinique
+Set_44,132,Korea Democratic Peoples,Set_44_132_(korea_democratic_peoples).png,Which country does this flag belong to?,Jamaica,Falkland Islands,South Georgia and the South Sandwich Islands,Korea Democratic Peoples,Korea Democratic Peoples
+Set_45,133,Libya,Set_45_133_(libya).png,Which country does this flag belong to?,Cook Islands,French Southern Territories,Libya,Slovenia,Libya
+Set_45,134,Mauritania,Set_45_134_(mauritania).png,Which country does this flag belong to?,Romania,Kyrgyzstan,Sao Tome and Principe,Mauritania,Mauritania
+Set_45,135,Lesotho,Set_45_135_(lesotho).png,Which country does this flag belong to?,Virgin Islands Us,Equatorial Guinea,Lesotho,Liechtenstein,Lesotho
+Set_46,136,Lithuania,Set_46_136_(lithuania).png,Which country does this flag belong to?,Lithuania,Kyrgyzstan,French Southern Territories,England,Lithuania
+Set_46,137,Mauritius,Set_46_137_(mauritius).png,Which country does this flag belong to?,Mauritius,Bosnia and Herzegovina,South Sudan,Philippines,Mauritius
+Set_46,138,Liberia,Set_46_138_(liberia).png,Which country does this flag belong to?,Liberia,Cameroon,Mexico,Mauritius,Liberia
+Set_47,139,Luxembourg,Set_47_139_(luxembourg).png,Which country does this flag belong to?,Morocco,Martinique,Luxembourg,Macao,Luxembourg
+Set_47,140,Mayotte,Set_47_140_(mayotte).png,Which country does this flag belong to?,Portugal,Israel,Equatorial Guinea,Mayotte,Mayotte
+Set_47,141,Malawi,Set_47_141_(malawi).png,Which country does this flag belong to?,Marshall Islands,Mozambique,Malawi,Uganda,Malawi
+Set_48,142,Malaysia,Set_48_142_(malaysia).png,Which country does this flag belong to?,Malaysia,Oman,Iceland,Spain,Malaysia
+Set_48,143,"Micronesia, Federated States of",Set_48_143_(micronesia).png,Which country does this flag belong to?,Norfolk Island,"Micronesia, Federated States of",Palau,Holy See,"Micronesia, Federated States of"
+Set_48,144,Marshall Islands,Set_48_144_(marshall_islands).png,Which country does this flag belong to?,Marshall Islands,Guernsey,Virgin Islands Us,Papua New Guinea,Marshall Islands
+Set_49,145,Malta,Set_49_145_(malta).png,Which country does this flag belong to?,Malta,Saudi Arabia,Kiribati,Niue,Malta
+Set_49,146,Moldova,Set_49_146_(moldova).png,Which country does this flag belong to?,Moldova,Saint Lucia,Switzerland,French Polynesia,Moldova
+Set_49,147,Montserrat,Set_49_147_(montserrat).png,Which country does this flag belong to?,El Salvador,Montserrat,Korea Democratic Peoples,San Marino,Montserrat
+Set_50,148,Mexico,Set_50_148_(mexico).png,Which country does this flag belong to?,French Polynesia,Mexico,Rwanda,Taiwan (Republic of China),Mexico
+Set_50,149,Mongolia,Set_50_149_(mongolia).png,Which country does this flag belong to?,Indonesia,Mongolia,Sierra Leone,Kosovo,Mongolia
+Set_50,150,Nauru,Set_50_150_(nauru).png,Which country does this flag belong to?,Saint Barthélemy,American Samoa,Nauru,"Congo, the Democratic Republic of the",Nauru

@@ -1,11 +1,15 @@
-# Flag Quiz Project
+# 003 CC Flags
 
-255개 국기 퀴즈 영상 제작을 위한 자동화 프로젝트
+Flag Quiz Project with 255 PNG files ready for Canva Bulk Create.
 
-## 구조
-- `canva_upload_ready/flag_images/svg/` - 난이도별 SVG 국기 파일들
-- `flag_quiz_data.csv` - 퀴즈 데이터 (Canva Bulk Create용)
+## Files
+- PNG Images: `/canva_upload_ready/flag_images/png/`
+- CSV Data: Multiple batch files for easy upload
 
-## GitHub Pages 호스팅
-SVG 파일들이 다음 URL로 접근 가능:
-- `https://USERNAME.github.io/REPOSITORY/canva_upload_ready/flag_images/svg/beginner/begin01_albania.svg`
+## Access Images
+Images are available at:
+`https://davidlikescat.github.io/003_CC_Flags/canva_upload_ready/flag_images/png/[filename].png`
+
+Example:
+`https://davidlikescat.github.io/003_CC_Flags/canva_upload_ready/flag_images/png/Set_01_001_(albania).png`
+

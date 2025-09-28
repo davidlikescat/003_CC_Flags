@@ -1,0 +1,51 @@
+set_id,quiz_id,country_name,image,question_text,option_a,option_b,option_c,option_d,correct_answer
+Set_01,1,Albania,Set_01_001_(albania).png,Which country does this flag belong to?,Albania,Liechtenstein,Costa Rica,Cayman Islands,Albania
+Set_01,2,Afghanistan,Set_01_002_(afghanistan).png,Which country does this flag belong to?,Afghanistan,Slovakia,Switzerland,New Caledonia,Afghanistan
+Set_01,3,Andorra,Set_01_003_(andorra).png,Which country does this flag belong to?,Andorra,"Tanzania, United Republic of",Mauritius,Germany,Andorra
+Set_02,4,Algeria,Set_02_004_(algeria).png,Which country does this flag belong to?,Jamaica,Paraguay,Benin,Algeria,Algeria
+Set_02,5,American Samoa,Set_02_005_(american_samoa).png,Which country does this flag belong to?,Saint Lucia,American Samoa,Saint Barthélemy,Western Sahara,American Samoa
+Set_02,6,Antarctica,Set_02_006_(antarctica).png,Which country does this flag belong to?,Zimbabwe,Lebanon,Antarctica,Saint Vincent and the Grenadines,Antarctica
+Set_03,7,Argentina,Set_03_007_(argentina).png,Which country does this flag belong to?,Madagascar,Sierra Leone,Solomon Islands,Argentina,Argentina
+Set_03,8,Angola,Set_03_008_(angola).png,Which country does this flag belong to?,Thailand,Turks and Caicos Islands,Samoa,Angola,Angola
+Set_03,9,Antigua and Barbuda,Set_03_009_(antigua_and_barbuda).png,Which country does this flag belong to?,"Saint Helena, Ascension and Tristan da Cunha",Cambodia,Comoros,Antigua and Barbuda,Antigua and Barbuda
+Set_04,10,Australia,Set_04_010_(australia).png,Which country does this flag belong to?,"Tanzania, United Republic of",Bouvet Island,Australia,Scotland,Australia
+Set_04,11,Anguilla,Set_04_011_(anguilla).png,Which country does this flag belong to?,Russian Federation,Panama,Ghana,Anguilla,Anguilla
+Set_04,12,Aruba,Set_04_012_(aruba).png,Which country does this flag belong to?,Aruba,Belize,Panama,Guinea,Aruba
+Set_05,13,Austria,Set_05_013_(austria).png,Which country does this flag belong to?,Antigua and Barbuda,Austria,Papua New Guinea,Azerbaijan,Austria
+Set_05,14,Armenia,Set_05_014_(armenia).png,Which country does this flag belong to?,Rwanda,Saint Martin,Armenia,Nigeria,Armenia
+Set_05,15,Bahamas,Set_05_015_(bahamas).png,Which country does this flag belong to?,Vietnam,Republic of the Congo,Bahamas,Pitcairn,Bahamas
+Set_06,16,Bangladesh,Set_06_016_(bangladesh).png,Which country does this flag belong to?,Tuvalu,Bangladesh,Albania,Republic of Türkiye,Bangladesh
+Set_06,17,Azerbaijan,Set_06_017_(azerbaijan).png,Which country does this flag belong to?,French Guiana,Cayman Islands,Sao Tome and Principe,Azerbaijan,Azerbaijan
+Set_06,18,Barbados,Set_06_018_(barbados).png,Which country does this flag belong to?,Cyprus,Barbados,Rwanda,Uruguay,Barbados
+Set_07,19,Belgium,Set_07_019_(belgium).png,Which country does this flag belong to?,Belgium,El Salvador,Pakistan,England,Belgium
+Set_07,20,Bahrain,Set_07_020_(bahrain).png,Which country does this flag belong to?,Bahrain,French Guiana,Saint Lucia,Brazil,Bahrain
+Set_07,21,Benin,Set_07_021_(benin).png,Which country does this flag belong to?,Mexico,Benin,Pakistan,Grenada,Benin
+Set_08,22,"Bolivia, Plurinational State of",Set_08_022_(bolivia_plurinational).png,Which country does this flag belong to?,Mexico,Maldives,Thailand,"Bolivia, Plurinational State of","Bolivia, Plurinational State of"
+Set_08,23,Belarus,Set_08_023_(belarus).png,Which country does this flag belong to?,Azerbaijan,Tokelau,Belarus,Colombia,Belarus
+Set_08,24,Bermuda,Set_08_024_(bermuda).png,Which country does this flag belong to?,Bermuda,Peru,Isle of Man,Moldova,Bermuda
+Set_09,25,Bosnia and Herzegovina,Set_09_025_(bosnia_and_herzegovina).png,Which country does this flag belong to?,Latvia,Kyrgyzstan,Uganda,Bosnia and Herzegovina,Bosnia and Herzegovina
+Set_09,26,Belize,Set_09_026_(belize).png,Which country does this flag belong to?,Moldova,Belize,"Venezuela, Bolivarian Republic of",Tuvalu,Belize
+Set_09,27,Bouvet Island,Set_09_027_(bouvet_island).png,Which country does this flag belong to?,Saint Kitts and Nevis,Malta,Czech Republic,Bouvet Island,Bouvet Island
+Set_10,28,Brazil,Set_10_028_(brazil).png,Which country does this flag belong to?,Denmark,Somalia,Caribbean Netherlands,Brazil,Brazil
+Set_10,29,Bhutan,Set_10_029_(bhutan).png,Which country does this flag belong to?,Dominica,Saint Pierre and Miquelon,Bhutan,Saint Lucia,Bhutan
+Set_10,30,British Indian Ocean Territory,Set_10_030_(british_indian_ocean_territory).png,Which country does this flag belong to?,Turkmenistan,Afghanistan,British Indian Ocean Territory,Andorra,British Indian Ocean Territory
+Set_11,31,Cameroon,Set_11_031_(cameroon).png,Which country does this flag belong to?,Cameroon,Suriname,Mongolia,Belize,Cameroon
+Set_11,32,Botswana,Set_11_032_(botswana).png,Which country does this flag belong to?,Ecuador,Botswana,Guatemala,England,Botswana
+Set_11,33,Burundi,Set_11_033_(burundi).png,Which country does this flag belong to?,Canada,Réunion,Burundi,Montenegro,Burundi
+Set_12,34,Chile,Set_12_034_(chile).png,Which country does this flag belong to?,"Virgin Islands, British",Chile,Bahrain,Myanmar,Chile
+Set_12,35,Brunei Darussalam,Set_12_035_(brunei_darussalam).png,Which country does this flag belong to?,Northern Ireland,Brunei Darussalam,Montenegro,Jordan,Brunei Darussalam
+Set_12,36,Cape Verde,Set_12_036_(cape_verde).png,Which country does this flag belong to?,Central African Republic,Réunion,Cape Verde,Czech Republic,Cape Verde
+Set_13,37,China,Set_13_037_(china).png,Which country does this flag belong to?,China,Saint Martin,Greece,Uzbekistan,China
+Set_13,38,Bulgaria,Set_13_038_(bulgaria).png,Which country does this flag belong to?,Algeria,Solomon Islands,Saudi Arabia,Bulgaria,Bulgaria
+Set_13,39,Cayman Islands,Set_13_039_(cayman_islands).png,Which country does this flag belong to?,Cayman Islands,Nauru,Zambia,United Arab Emirates,Cayman Islands
+Set_14,40,Colombia,Set_14_040_(colombia).png,Which country does this flag belong to?,Guadeloupe,Colombia,Trinidad and Tobago,Guam,Colombia
+Set_14,41,Burkina Faso,Set_14_041_(burkina_faso).png,Which country does this flag belong to?,Burkina Faso,Ethiopia,Lithuania,Uruguay,Burkina Faso
+Set_14,42,Christmas Island,Set_14_042_(christmas_island).png,Which country does this flag belong to?,Christmas Island,Caribbean Netherlands,Saint Martin,Saint Pierre and Miquelon,Christmas Island
+Set_15,43,Costa Rica,Set_15_043_(costa_rica).png,Which country does this flag belong to?,Saint Kitts and Nevis,Puerto Rico,Costa Rica,Antigua and Barbuda,Costa Rica
+Set_15,44,Cambodia,Set_15_044_(cambodia).png,Which country does this flag belong to?,Japan,Cambodia,Cayman Islands,Åland Islands,Cambodia
+Set_15,45,Cocos Islands,Set_15_045_(cocos_islands).png,Which country does this flag belong to?,Cocos Islands,British Indian Ocean Territory,Benin,Aruba,Cocos Islands
+Set_16,46,Croatia,Set_16_046_(croatia).png,Which country does this flag belong to?,Cyprus,Barbados,Slovenia,Croatia,Croatia
+Set_16,47,Canada,Set_16_047_(canada).png,Which country does this flag belong to?,Kazakhstan,Saint Pierre and Miquelon,Canada,Thailand,Canada
+Set_16,48,Comoros,Set_16_048_(comoros).png,Which country does this flag belong to?,Indonesia,Comoros,Mayotte,Trinidad and Tobago,Comoros
+Set_17,49,Cuba,Set_17_049_(cuba).png,Which country does this flag belong to?,Botswana,Zimbabwe,Sweden,Cuba,Cuba
+Set_17,50,Caribbean Netherlands,Set_17_050_(caribbean_netherlands).png,Which country does this flag belong to?,Nauru,Moldova,South Africa,Caribbean Netherlands,Caribbean Netherlands
